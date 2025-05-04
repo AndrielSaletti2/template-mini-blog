@@ -1,18 +1,3 @@
-#row-2 .overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.5); 
-    z-index: 1; 
-}
-
-#row-2 > * {
-    position: relative;
-    z-index: 2; 
-}
-
 .yellow{
     color: yellow;
     font-weight: bold;
@@ -28,4 +13,9 @@
 
 .background-primary{
     background-color: #17152D;
+}
+
+.background-secundary{
+    background-color: #0d0c1a;
+
 }
