@@ -17,5 +17,10 @@
 
 .background-secundary{
     background-color: #0d0c1a;
-
 }
+
+a:hover .card{
+    opacity: 0.9;
+    transform: scale(1.02);
+    transition: all 0.3s;
+  }
